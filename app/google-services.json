@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8313230552",
+    "project_id": "mphoto-6244c",
+    "storage_bucket": "mphoto-6244c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8313230552:android:c5673e445982746b4db3ad",
+        "android_client_info": {
+          "package_name": "com.example.mphoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTzlYy4NQBVXOYyDf33yc84SOh0adczU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
